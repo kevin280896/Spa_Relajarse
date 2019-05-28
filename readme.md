@@ -1,6 +1,7 @@
-#Muebleria Venta de muebles en linea
 
-#Instalacion
+#Instalacion 
+#Spa Relajarse 
+
 1.- git clone https://github.com/kasj122/muebleria
 2.- cd gdocs
 3.- composer install
